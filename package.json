@@ -2,7 +2,7 @@
   "name": "dark-solarin-2",
   "displayName": "dark-solarin-2",
   "description": "A dark theme extension for Visual Studio Code",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "kevboutin",
   "engines": {
     "vscode": "^1.74.0"
