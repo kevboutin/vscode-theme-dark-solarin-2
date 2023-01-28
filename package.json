@@ -1,0 +1,25 @@
+{
+  "name": "dark-solarin-2",
+  "displayName": "dark-solarin-2",
+  "description": "A dark theme extension for Visual Studio Code",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevboutin/vscode-theme-dark-solarin-2"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "dark-solarin-2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-solarin-2-color-theme.json"
+      }
+    ]
+  }
+}
